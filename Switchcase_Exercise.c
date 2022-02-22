@@ -8,17 +8,17 @@ int main(){
 	
 	int num;
 	
+	do{//inicia o laço de repetição
 	
-	do{
 		printf("\n Digite o numero do codigo: ");
 		scanf("%d",&num);
-		if(num < 0 || num > 7 || num == 6 || num == 4){
+		if(num < 1 || num > 7 || num == 6 || num == 4){
 			printf("Invalido, Digitar novamente!");
 		}
 		
-	}while(num < 0 || num > 7 || num == 6 || num == 4);
+	}while(num < 1 || num > 7 || num == 6 || num == 4); // Encerra o laço de repetição
 	
-	switch(num){
+	switch(num){//teste a variavel num para o diagnostico
 		
 		case 1 : printf("Dor de cabeça : Receitar analgesico e descanso");
 		break;
@@ -27,8 +27,6 @@ int main(){
 		case 5 : case 7 : printf("Virose: Descanso e boa alimentação");
 		break;
 	}
-	
-	
 	
 	return 0;
 }
