@@ -1,0 +1,12 @@
+C:\Users\aluno\Desktop\Repositorio c#\Tarefa1\Tarefa1\obj\Debug\FrmPrincipal.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Repositorio c#\Tarefa1\Tarefa1\obj\Debug\Tarefa1.FrmPrincipal.resources
+C:\Users\aluno\Desktop\Repositorio c#\Tarefa1\Tarefa1\obj\Debug\Tarefa1.Properties.Resources.resources
+C:\Users\aluno\Desktop\Repositorio c#\Tarefa1\Tarefa1\obj\Debug\FrmPrincipal.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Repositorio c#\Tarefa1\Tarefa1\obj\Debug\FrmPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Repositorio c#\Tarefa1\Tarefa1\bin\Debug\Tarefa1.exe.config
+C:\Users\aluno\Desktop\Repositorio c#\Tarefa1\Tarefa1\bin\Debug\Tarefa1.exe
+C:\Users\aluno\Desktop\Repositorio c#\Tarefa1\Tarefa1\bin\Debug\Tarefa1.pdb
+C:\Users\aluno\Desktop\Repositorio c#\Tarefa1\Tarefa1\obj\Debug\Tarefa1.exe
+C:\Users\aluno\Desktop\Repositorio c#\Tarefa1\Tarefa1\obj\Debug\Tarefa1.pdb
+C:\Users\aluno\Desktop\Repositorio c#\Tarefa1\Tarefa1\obj\Debug\Tarefa1.frmCliente.resources
+C:\Users\aluno\Desktop\Repositorio c#\Tarefa1\Tarefa1\obj\Debug\Tarefa1.frmProduto.resources
