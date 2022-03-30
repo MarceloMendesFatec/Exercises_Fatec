@@ -1,0 +1,10 @@
+C:\Users\aluno\Desktop\Repositorio c#\aula1\aula1\bin\Debug\aula1.exe.config
+C:\Users\aluno\Desktop\Repositorio c#\aula1\aula1\bin\Debug\aula1.exe
+C:\Users\aluno\Desktop\Repositorio c#\aula1\aula1\bin\Debug\aula1.pdb
+C:\Users\aluno\Desktop\Repositorio c#\aula1\aula1\obj\Debug\aula1.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Repositorio c#\aula1\aula1\obj\Debug\aula1.Properties.Resources.resources
+C:\Users\aluno\Desktop\Repositorio c#\aula1\aula1\obj\Debug\aula1.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Repositorio c#\aula1\aula1\obj\Debug\aula1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Repositorio c#\aula1\aula1\obj\Debug\aula1.exe
+C:\Users\aluno\Desktop\Repositorio c#\aula1\aula1\obj\Debug\aula1.pdb
+C:\Users\aluno\Desktop\Repositorio c#\aula1\aula1\obj\Debug\aula1.FrmPrincipal.resources
