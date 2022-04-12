@@ -21,5 +21,14 @@ namespace Tarefa1
         {
             MessageBox.Show(" Produto 1 \n Produto 2 \n Produto 3");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            var sair = MessageBox.Show("Deseja sair da aba produtos??",ProductName, MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+               if (sair == DialogResult.Yes)
+            {
+                Dispose();
+            }
+        }
     }
 }

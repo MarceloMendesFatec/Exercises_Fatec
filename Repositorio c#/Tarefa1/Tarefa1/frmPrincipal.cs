@@ -23,21 +23,32 @@ namespace Tarefa1
 
         }
 
-        private void itemConsCLi_Click(object sender, EventArgs e)
+
+        private void sairDoProgamaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmCliente frm = new frmCliente();
-            frm.Show();
+            var sair = MessageBox.Show("Voce tem certeza que quer sair???","fechar",MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+            if (sair == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+            
         }
 
-        private void itemConsProd_Click(object sender, EventArgs e)
+        private void produtosToolStripMenuItem_Click(object sender, EventArgs e)
         {
             frmProduto frm = new frmProduto();
             frm.Show();
         }
 
-        private void sairDoProgamaToolStripMenuItem_Click(object sender, EventArgs e)
+        private void clientesToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            frmCliente frm = new frmCliente();
+            frm.Show();
+        }
+
+        private void sairToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

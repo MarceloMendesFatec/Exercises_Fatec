@@ -30,9 +30,8 @@ namespace Tarefa1
         private void InitializeComponent()
         {
             this.menuPrincipal = new System.Windows.Forms.MenuStrip();
-            this.opcConsulta = new System.Windows.Forms.ToolStripMenuItem();
-            this.itemConsCLi = new System.Windows.Forms.ToolStripMenuItem();
-            this.itemConsProd = new System.Windows.Forms.ToolStripMenuItem();
+            this.produtosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.clientesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sairToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sairDoProgamaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuPrincipal.SuspendLayout();
@@ -42,61 +41,57 @@ namespace Tarefa1
             // 
             this.menuPrincipal.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuPrincipal.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.opcConsulta,
+            this.produtosToolStripMenuItem,
+            this.clientesToolStripMenuItem,
             this.sairToolStripMenuItem});
             this.menuPrincipal.Location = new System.Drawing.Point(0, 0);
             this.menuPrincipal.Name = "menuPrincipal";
-            this.menuPrincipal.Size = new System.Drawing.Size(800, 28);
+            this.menuPrincipal.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
+            this.menuPrincipal.Size = new System.Drawing.Size(600, 24);
             this.menuPrincipal.TabIndex = 0;
             this.menuPrincipal.Text = "menuStrip1";
             // 
-            // opcConsulta
+            // produtosToolStripMenuItem
             // 
-            this.opcConsulta.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.itemConsCLi,
-            this.itemConsProd});
-            this.opcConsulta.Name = "opcConsulta";
-            this.opcConsulta.Size = new System.Drawing.Size(80, 24);
-            this.opcConsulta.Text = "Consulta";
+            this.produtosToolStripMenuItem.Name = "produtosToolStripMenuItem";
+            this.produtosToolStripMenuItem.Size = new System.Drawing.Size(67, 20);
+            this.produtosToolStripMenuItem.Text = "Produtos";
+            this.produtosToolStripMenuItem.Click += new System.EventHandler(this.produtosToolStripMenuItem_Click);
             // 
-            // itemConsCLi
+            // clientesToolStripMenuItem
             // 
-            this.itemConsCLi.Name = "itemConsCLi";
-            this.itemConsCLi.Size = new System.Drawing.Size(224, 26);
-            this.itemConsCLi.Text = "Clientes";
-            this.itemConsCLi.Click += new System.EventHandler(this.itemConsCLi_Click);
-            // 
-            // itemConsProd
-            // 
-            this.itemConsProd.Name = "itemConsProd";
-            this.itemConsProd.Size = new System.Drawing.Size(224, 26);
-            this.itemConsProd.Text = "Produtos";
-            this.itemConsProd.Click += new System.EventHandler(this.itemConsProd_Click);
+            this.clientesToolStripMenuItem.Name = "clientesToolStripMenuItem";
+            this.clientesToolStripMenuItem.Size = new System.Drawing.Size(61, 20);
+            this.clientesToolStripMenuItem.Text = "Clientes";
+            this.clientesToolStripMenuItem.Click += new System.EventHandler(this.clientesToolStripMenuItem_Click);
             // 
             // sairToolStripMenuItem
             // 
             this.sairToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.sairDoProgamaToolStripMenuItem});
             this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
-            this.sairToolStripMenuItem.Size = new System.Drawing.Size(48, 24);
+            this.sairToolStripMenuItem.Size = new System.Drawing.Size(38, 20);
             this.sairToolStripMenuItem.Text = "Sair";
+            this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
             // 
             // sairDoProgamaToolStripMenuItem
             // 
             this.sairDoProgamaToolStripMenuItem.Name = "sairDoProgamaToolStripMenuItem";
-            this.sairDoProgamaToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.sairDoProgamaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.sairDoProgamaToolStripMenuItem.Text = "Sair do Progama";
             this.sairDoProgamaToolStripMenuItem.Click += new System.EventHandler(this.sairDoProgamaToolStripMenuItem_Click);
             // 
             // FrmPrincipal
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(600, 366);
             this.Controls.Add(this.menuPrincipal);
             this.MainMenuStrip = this.menuPrincipal;
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "FrmPrincipal";
-            this.Text = "Empresa xyz";
+            this.Text = "Menu Principal";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.FrmPrincipal_Load);
             this.menuPrincipal.ResumeLayout(false);
             this.menuPrincipal.PerformLayout();
@@ -108,11 +103,10 @@ namespace Tarefa1
         #endregion
 
         private System.Windows.Forms.MenuStrip menuPrincipal;
-        private System.Windows.Forms.ToolStripMenuItem opcConsulta;
-        private System.Windows.Forms.ToolStripMenuItem itemConsCLi;
-        private System.Windows.Forms.ToolStripMenuItem itemConsProd;
         private System.Windows.Forms.ToolStripMenuItem sairToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem sairDoProgamaToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem produtosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem clientesToolStripMenuItem;
     }
 }
 
