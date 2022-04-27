@@ -29,6 +29,14 @@ namespace Combobox1
 
         private void combodropdownlsit_SelectedIndexChanged(object sender, EventArgs e)
         {
+            if(combodropdownlist.SelectedIndex != -1)
+            {
+           
+                txtpostitem.Text = combodropdownlist.SelectedIndex.ToString();
+                txttotal.Text = combodropdownlist.Items.Count.ToString();
+                txttextosel.Text = combodropdownlist.SelectedItem.ToString();
+
+            }
 
         }
 
@@ -64,6 +72,28 @@ namespace Combobox1
                 txttextosel.Clear();
                 txttotal.Clear();
             }
+        }
+
+        private void btnlimparcombo_Click(object sender, EventArgs e)
+        {
+            combodropdownlist.Items.Clear();
+            txtpalavra.Clear();
+            txtpostitem.Clear();
+            txttextosel.Clear();
+            txttotal.Clear();
+        }
+
+        private void txtpalavra_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if(e.KeyChar == 13)// 13 é enter
+            {
+                btnadd_Click(sender, e);
+            }
+        }
+
+        private void czx(object sender, EventArgs e)
+        {
+
         }
     }
 }

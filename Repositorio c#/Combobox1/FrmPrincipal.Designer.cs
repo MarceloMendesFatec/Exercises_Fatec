@@ -99,7 +99,7 @@ namespace Combobox1
             // 
             // btnadd
             // 
-            this.btnadd.Location = new System.Drawing.Point(313, 87);
+            this.btnadd.Location = new System.Drawing.Point(315, 87);
             this.btnadd.Name = "btnadd";
             this.btnadd.Size = new System.Drawing.Size(144, 23);
             this.btnadd.TabIndex = 7;
@@ -125,6 +125,7 @@ namespace Combobox1
             this.btnlimparcombo.TabIndex = 9;
             this.btnlimparcombo.Text = "Limpar Combo";
             this.btnlimparcombo.UseVisualStyleBackColor = true;
+            this.btnlimparcombo.Click += new System.EventHandler(this.btnlimparcombo_Click);
             // 
             // btnlimparpalavra
             // 
@@ -161,6 +162,8 @@ namespace Combobox1
             this.txtpalavra.Name = "txtpalavra";
             this.txtpalavra.Size = new System.Drawing.Size(121, 20);
             this.txtpalavra.TabIndex = 14;
+            this.txtpalavra.TextChanged += new System.EventHandler(this.czx);
+            this.txtpalavra.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtpalavra_KeyPress);
             // 
             // txtpostitem
             // 

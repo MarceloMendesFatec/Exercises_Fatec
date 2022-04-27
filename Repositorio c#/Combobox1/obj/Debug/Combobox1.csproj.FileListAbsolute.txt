@@ -8,3 +8,13 @@ C:\Users\aluno\Desktop\Marcelo\Combobox1\obj\Debug\Combobox1.csproj.GenerateReso
 C:\Users\aluno\Desktop\Marcelo\Combobox1\obj\Debug\Combobox1.csproj.CoreCompileInputs.cache
 C:\Users\aluno\Desktop\Marcelo\Combobox1\obj\Debug\Combobox1.exe
 C:\Users\aluno\Desktop\Marcelo\Combobox1\obj\Debug\Combobox1.pdb
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\Combobox1\bin\Debug\Combobox1.exe.config
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\Combobox1\bin\Debug\Combobox1.exe
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\Combobox1\bin\Debug\Combobox1.pdb
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\Combobox1\obj\Debug\Combobox1.csproj.AssemblyReference.cache
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\Combobox1\obj\Debug\Combobox1.FrmPrincipal.resources
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\Combobox1\obj\Debug\Combobox1.Properties.Resources.resources
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\Combobox1\obj\Debug\Combobox1.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\Combobox1\obj\Debug\Combobox1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\Combobox1\obj\Debug\Combobox1.exe
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\Combobox1\obj\Debug\Combobox1.pdb
