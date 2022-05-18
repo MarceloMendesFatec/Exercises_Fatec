@@ -17,12 +17,12 @@ namespace MARCELO1105
             InitializeComponent();
         }
 
-        private void categoriaToolStripMenuItem_Click(object sender, EventArgs e)
+
+        private void salvarToolStripMenuItem_Click(object sender, EventArgs e)
         {
+
             FrmSalvar frm = new FrmSalvar();
             frm.Show();
         }
-
-        
     }
 }

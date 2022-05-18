@@ -4,3 +4,9 @@ C:\Users\aluno\source\repos\MARCELO1105\obj\Debug\MARCELO1105.FrmSalvar.resource
 C:\Users\aluno\source\repos\MARCELO1105\obj\Debug\MARCELO1105.Properties.Resources.resources
 C:\Users\aluno\source\repos\MARCELO1105\obj\Debug\MARCELO1105.csproj.GenerateResource.cache
 C:\Users\aluno\source\repos\MARCELO1105\obj\Debug\MARCELO1105.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\MARCELO1105\obj\Debug\MARCELO1105.csproj.AssemblyReference.cache
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\MARCELO1105\obj\Debug\MARCELO1105.FrmPrincipal.resources
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\MARCELO1105\obj\Debug\MARCELO1105.FrmSalvar.resources
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\MARCELO1105\obj\Debug\MARCELO1105.Properties.Resources.resources
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\MARCELO1105\obj\Debug\MARCELO1105.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\MARCELO1105\obj\Debug\MARCELO1105.csproj.CoreCompileInputs.cache
