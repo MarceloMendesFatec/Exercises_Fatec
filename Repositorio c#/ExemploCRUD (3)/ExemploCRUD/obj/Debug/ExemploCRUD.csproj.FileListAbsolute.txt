@@ -1,0 +1,81 @@
+C:\Users\aluno\Documents\marcioFerraz\ExemploCRUD\bin\Debug\ExemploCRUD.exe.config
+C:\Users\aluno\Documents\marcioFerraz\ExemploCRUD\bin\Debug\ExemploCRUD.exe
+C:\Users\aluno\Documents\marcioFerraz\ExemploCRUD\bin\Debug\ExemploCRUD.pdb
+C:\Users\aluno\Documents\marcioFerraz\ExemploCRUD\obj\Debug\ExemploCRUD.csproj.AssemblyReference.cache
+C:\Users\aluno\Documents\marcioFerraz\ExemploCRUD\obj\Debug\ExemploCRUD.FrmPrincipal.resources
+C:\Users\aluno\Documents\marcioFerraz\ExemploCRUD\obj\Debug\ExemploCRUD.Properties.Resources.resources
+C:\Users\aluno\Documents\marcioFerraz\ExemploCRUD\obj\Debug\ExemploCRUD.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\marcioFerraz\ExemploCRUD\obj\Debug\ExemploCRUD.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\marcioFerraz\ExemploCRUD\obj\Debug\ExemploCRUD.exe
+C:\Users\aluno\Documents\marcioFerraz\ExemploCRUD\obj\Debug\ExemploCRUD.pdb
+C:\Users\aluno\Documents\marcioFerraz\ExemploCRUD\obj\Debug\ExemploCRUD.FrmCategoria.resources
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\ExemploCRUD.exe.config
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\ExemploCRUD.exe
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\ExemploCRUD.pdb
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\Google.Protobuf.dll
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\MySql.Data.dll
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\System.Buffers.dll
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\System.Memory.dll
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\ZstdNet.dll
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\Google.Protobuf.pdb
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\Google.Protobuf.xml
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\MySql.Data.xml
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\System.Buffers.xml
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\System.Memory.xml
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\obj\Debug\ExemploCRUD.csproj.AssemblyReference.cache
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\obj\Debug\ExemploCRUD.FrmCategoria.resources
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\obj\Debug\ExemploCRUD.FrmPrincipal.resources
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\obj\Debug\ExemploCRUD.Properties.Resources.resources
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\obj\Debug\ExemploCRUD.csproj.GenerateResource.cache
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\obj\Debug\ExemploCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\obj\Debug\ExemploCRUD.csproj.CopyComplete
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\obj\Debug\ExemploCRUD.exe
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\obj\Debug\ExemploCRUD.pdb
+C:\Users\Professor\Documents\ferraz\c#\ExemploCRUD\obj\Debug\ExemploCRUD.FrmListarCategoria.resources
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\ExemploCRUD.exe.config
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\ExemploCRUD.exe
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\ExemploCRUD.pdb
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\Google.Protobuf.dll
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\System.Buffers.dll
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\System.Memory.dll
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\ZstdNet.dll
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\Google.Protobuf.pdb
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\Google.Protobuf.xml
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\MySql.Data.xml
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\System.Buffers.xml
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\System.Memory.xml
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\obj\Debug\ExemploCRUD.csproj.AssemblyReference.cache
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\obj\Debug\ExemploCRUD.FrmCategoria.resources
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\obj\Debug\ExemploCRUD.FrmListarCategoria.resources
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\obj\Debug\ExemploCRUD.FrmPrincipal.resources
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\obj\Debug\ExemploCRUD.Properties.Resources.resources
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\obj\Debug\ExemploCRUD.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\obj\Debug\ExemploCRUD.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\obj\Debug\ExemploCRUD.csproj.CopyComplete
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\obj\Debug\ExemploCRUD.exe
+C:\Users\aluno\Documents\GitHub\Exercises_Fatec\Repositorio c#\ExemploCRUD (3)\ExemploCRUD\obj\Debug\ExemploCRUD.pdb
