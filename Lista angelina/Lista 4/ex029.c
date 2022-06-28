@@ -1,12 +1,12 @@
-/* 	29)Faça um programa que receba na função main() um número inteiro e o envie para  a  função  calcularQuadrado.  
-A  função  calcular  Quadrado  fará  a multiplicação do número recebido por ele mesmo e depois retornará o resultado para a função que a chamou. 
-Ao final deverá ser mostrado o resultado do quadrado do número na função principal. 
+/* 	29)Faï¿½a um programa que receba na funï¿½ï¿½o main() um nï¿½mero inteiro e o envie para  a  funï¿½ï¿½o  calcularQuadrado.  
+A  funï¿½ï¿½o  calcular  Quadrado  farï¿½  a multiplicaï¿½ï¿½o do nï¿½mero recebido por ele mesmo e depois retornarï¿½ o resultado para a funï¿½ï¿½o que a chamou. 
+Ao final deverï¿½ ser mostrado o resultado do quadrado do nï¿½mero na funï¿½ï¿½o principal. 
    	  
 */
 
-#include <stdio.h>  //biblioteca de entrada/saida de perifericos padrão
+#include <stdio.h>  //biblioteca de entrada/saida de perifericos padrÃ£o
 #include <locale.h> // Biblioteca para setar o idioma utilizado
-#include <stdlib.h> //Biblioteca padrao para o uso de funçoes no sistema
+#include <stdlib.h> //Biblioteca padrao para o uso de funï¿½oes no sistema
 int calcularQuadrado();
 int main ()
 {
@@ -22,7 +22,7 @@ int main ()
  	printf("Digite um numero inteiro: ");
  	scanf("%d",&num);
  	square = calcularQuadrado(num);
- 	printf("\nO numero %d ao quadrado é : %d",num,square);
+ 	printf("\nO numero %d ao quadrado ï¿½ : %d",num,square);
 
 //3 calc
 
