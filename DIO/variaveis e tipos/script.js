@@ -7,7 +7,7 @@ console.log(fullName);
 
 
 function verificar(string){
-    if(!string) return;
+    if(!string) return "string inexistente";
 
    return string.split("").reverse().join("") === string;
 }
@@ -15,3 +15,4 @@ function verificar(string){
 
 
 console.log(verificar("word"));
+
